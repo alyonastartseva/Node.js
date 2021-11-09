@@ -1,0 +1,22 @@
+{
+  "name": "study-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node create-server.js",
+    "dev": "nodemon create-server.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Alyona Startseva <alyona_startseva.tk@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
